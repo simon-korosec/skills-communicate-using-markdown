@@ -5,3 +5,5 @@
 ##### This is a Header 5
 ###### This is a Header 6
 With this commit I added a Lookup Sheet for different types of Headers
+### Add a picture here:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
