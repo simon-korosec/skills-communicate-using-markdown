@@ -13,3 +13,7 @@ With this commit I added a Lookup Sheet for different types of Headers
 ``` javascript
 for (String word : listOfWords) { word.toLowerCase() }
 ```
+### Add a list here:
+- [x] Buy bread
+- [x] Complete excercice for Konf
+- [ ] Eat
